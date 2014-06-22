@@ -1,0 +1,5 @@
+D:\Working\Danar\NSimulator\iso\bin\Debug\nSwitch4me-iso-v0.0.1.dll
+D:\Working\Danar\NSimulator\iso\bin\Debug\nSwitch4me-iso-v0.0.1.pdb
+D:\Working\Danar\NSimulator\iso\obj\Debug\ResolveAssemblyReference.cache
+D:\Working\Danar\NSimulator\iso\obj\Debug\nSwitch4me-iso-v0.0.1.dll
+D:\Working\Danar\NSimulator\iso\obj\Debug\nSwitch4me-iso-v0.0.1.pdb

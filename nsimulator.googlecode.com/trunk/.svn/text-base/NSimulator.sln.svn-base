@@ -1,0 +1,31 @@
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NSimulator", "NSimulator\NSimulator.csproj", "{77BFEF32-2DAF-4351-B21C-7963809E8842}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "com", "com\com.csproj", "{210FE344-9893-4273-BE6E-81B636479605}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Iso8583", "Iso8583\Iso8583.csproj", "{B6ABD496-DE40-4F61-8315-2F6E9976B112}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77BFEF32-2DAF-4351-B21C-7963809E8842}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77BFEF32-2DAF-4351-B21C-7963809E8842}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77BFEF32-2DAF-4351-B21C-7963809E8842}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77BFEF32-2DAF-4351-B21C-7963809E8842}.Release|Any CPU.Build.0 = Release|Any CPU
+		{210FE344-9893-4273-BE6E-81B636479605}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{210FE344-9893-4273-BE6E-81B636479605}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{210FE344-9893-4273-BE6E-81B636479605}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{210FE344-9893-4273-BE6E-81B636479605}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6ABD496-DE40-4F61-8315-2F6E9976B112}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6ABD496-DE40-4F61-8315-2F6E9976B112}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6ABD496-DE40-4F61-8315-2F6E9976B112}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6ABD496-DE40-4F61-8315-2F6E9976B112}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

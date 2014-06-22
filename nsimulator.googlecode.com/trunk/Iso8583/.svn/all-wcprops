@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/2/trunk/Iso8583
+END
+AssemblyInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/Iso8583/AssemblyInfo.cs
+END
+ISOGenericFunction.cs
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/Iso8583/ISOGenericFunction.cs
+END
+Iso8583.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/Iso8583/Iso8583.csproj
+END
+ISOMsg.cs
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/Iso8583/ISOMsg.cs
+END
+ISOFieldAttribute.cs
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/Iso8583/ISOFieldAttribute.cs
+END
+ISOPackager.cs
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/Iso8583/ISOPackager.cs
+END
+ISOException.cs
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/Iso8583/ISOException.cs
+END
+ISOBaseField.cs
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/Iso8583/ISOBaseField.cs
+END
+Iso8583.csproj.user
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/Iso8583/Iso8583.csproj.user
+END

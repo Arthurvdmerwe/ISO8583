@@ -1,0 +1,15 @@
+D:\Working\Danar\NSimulator\HostSimulator\obj\Debug\Interop.MSScriptControl.dll
+D:\Working\Danar\NSimulator\HostSimulator\obj\Debug\HostSimulator.csproj.ResolveComReference.cache
+D:\Working\Danar\NSimulator\HostSimulator\bin\Debug\HostSimulator.exe
+D:\Working\Danar\NSimulator\HostSimulator\bin\Debug\HostSimulator.pdb
+D:\Working\Danar\NSimulator\HostSimulator\bin\Debug\nSwitch4me-com-v0.0.1.dll
+D:\Working\Danar\NSimulator\HostSimulator\bin\Debug\nSwitch4me-iso-v0.0.1.dll
+D:\Working\Danar\NSimulator\HostSimulator\bin\Debug\nSwitch4me-com-v0.0.1.pdb
+D:\Working\Danar\NSimulator\HostSimulator\bin\Debug\nSwitch4me-iso-v0.0.1.pdb
+D:\Working\Danar\NSimulator\HostSimulator\bin\Debug\Interop.MSScriptControl.dll
+D:\Working\Danar\NSimulator\HostSimulator\obj\Debug\ResolveAssemblyReference.cache
+D:\Working\Danar\NSimulator\HostSimulator\obj\Debug\middleware.or.id.HostSimulator.frmISO8583Parser.resources
+D:\Working\Danar\NSimulator\HostSimulator\obj\Debug\middleware.or.id.HostSimulator.frmMain.resources
+D:\Working\Danar\NSimulator\HostSimulator\obj\Debug\HostSimulator.csproj.GenerateResource.Cache
+D:\Working\Danar\NSimulator\HostSimulator\obj\Debug\HostSimulator.exe
+D:\Working\Danar\NSimulator\HostSimulator\obj\Debug\HostSimulator.pdb

@@ -1,0 +1,13 @@
+isoField = ""
+i=0
+This.LogClear()
+This.LogInfo ("[VALIDATOR] Starting Parsing Proses")
+i = This.ProcessParsing(this.getISOMessage())
+If (i >= 0) Then
+	While i < 129
+		isoField = this.getISOField(i)	
+		If Not (isoField="") Then This.LogInfo ("[VALIDATOR] TEST FIELD " + CStr(i) + " " + isoField)
+		i = i + 1
+	Wend
+End If
+This.LogInfo ("[VALIDATOR] Ending Proses")
